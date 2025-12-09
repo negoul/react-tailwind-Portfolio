@@ -2,7 +2,7 @@
   "name": "tailwind-react-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://USERNAME.github.io/tailwind-react-portfolio/",
+ "homepage": "https://negoul.github.io/react-tailwind-Portfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
